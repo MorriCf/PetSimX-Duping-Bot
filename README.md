@@ -1,6 +1,7 @@
 # PetSimX Duping BOT
 
-![Static Badge](https://img.shields.io/badge/Status-_Working-green) ![Static Badge](https://img.shields.io/badge/Discord%3A-_daliah%231535-blue)
+![Static Badge](https://img.shields.io/badge/Status-_Working-green) ![Static Badge](https://img.shields.io/badge/Discord%3A-_daliah%231535-blue) | ![Static Badge](https://img.shields.io/badge/Password%3A-_12345-red)
+
 
 
 
